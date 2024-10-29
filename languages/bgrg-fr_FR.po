@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Begenius Reputationgenius\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-23 07:35+0000\n"
+"PO-Revision-Date: 2017-06-23 07:35+0000\n"
+"Last-Translator: PalazzoTreviAdmin <info@begenius.dev>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Begenius Reputationgenius"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://admin.reputationgenius.it"
+msgstr ""
+
+#. Author of the plugin
+msgid "Begenius"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.begenius.it"
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "Mar"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "Nov"
+msgstr ""
+
+msgid "Dec"
+msgstr ""
+
+msgid "Aug"
+msgstr "Aoû"
+
+#: Plugin/class-bg-comment.php:40
+msgid "I liked"
+msgstr "J'ai aimé"
+
+#: Plugin/class-bg-comment.php:41
+msgid "I disliked"
+msgstr "Je n'ai pas aimé"
+
+#: views/options_page.php:39
+msgid "Total comments downloaded"
+msgstr "Total des commentaires téléchargés"
+
+#: views/options_page.php:42
+msgid "Latest download at"
+msgstr "Le dernier téléchargement à"
+
+#: views/templates/custom.php:55
+msgid "From"
+msgstr "De"
+
+#: views/templates/custom.php:59
+msgid "View all comments"
+msgstr "Voir tous les commentaires"
+
+#. Description of the plugin
+msgid ""
+"This plugin seamlessly integrates your customer reviews into your WordPress "
+"site."
+msgstr ""
+"Ce plugin intègre parfaitement vos avis clients dans votre site WordPress."
+
+msgid "Feb"
+msgstr "Fév"
+
+msgid "Apr"
+msgstr "Avr"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Jun"
+msgstr "Juin"
+
+msgid "Jul"
+msgstr "Juil"
+
+msgid "Sep"
+msgstr "Déc"
